@@ -1,0 +1,29 @@
+# VSCode settings folder
+.vscode/
+
+# Exclude workspace storage files
+.vscode-test/
+
+# Ignore logs
+*.log
+
+# Ignore extensions settings
+.vscode/extensions.json
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Environment files
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
